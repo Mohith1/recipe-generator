@@ -1,0 +1,4 @@
+Database_backup/*.sql filter=lfs diff=lfs merge=lfs -text
+Preprocessed_Data/*.csv    filter=lfs diff=lfs merge=lfs -text
+Dataset/*.csv              filter=lfs diff=lfs merge=lfs -text
+Index/*.faiss              filter=lfs diff=lfs merge=lfs -text
