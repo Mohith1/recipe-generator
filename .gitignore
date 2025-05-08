@@ -1,8 +1,8 @@
 # ignore database dumps and large csv/index files
-Database_backup/*.sql
-Preprocessed_Data/*.csv
-Dataset/*.csv
-Index/*.faiss
+#Database_backup/*.sql
+#Preprocessed_Data/*.csv
+#Dataset/*.csv
+#Index/*.faiss
 
 # Python artifacts
 __pycache__/
